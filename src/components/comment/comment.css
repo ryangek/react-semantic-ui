@@ -1,0 +1,4 @@
+.full-width {
+    width: calc(100% - 1em) !important;
+    max-width: calc(100% - 1em) !important;
+}
